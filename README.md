@@ -46,5 +46,5 @@ This repository is designed to:
 - 🧪 Enable **retinal disease research**
 - 🔗 Serve as a bridge between **MESSIDOR images and MAPLES-DR annotations**
 
----
+
 
