@@ -46,5 +46,28 @@ This repository is designed to:
 - 🧪 Enable **retinal disease research**
 - 🔗 Serve as a bridge between **MESSIDOR images and MAPLES-DR annotations**
 
+--- 
+📚 References
+📌 MESSIDOR
+
+Decencière et al., Feedback on a publicly distributed database: the MESSIDOR database, Image Analysis & Stereology, 2014.
+
+📌 MAPLES-DR
+
+Lepetit-Aimon et al., MAPLES-DR: MESSIDOR Anatomical and Pathological Labels for Explainable Screening of Diabetic Retinopathy, Scientific Data, 2024.
+
+BibTeX
+@article{maples_dr,
+  title={MAPLES-DR: MESSIDOR Anatomical and Pathological Labels for Explainable Screening of Diabetic Retinopathy},
+  author={Lepetit-Aimon, Gabriel and Playout, Clément and Boucher, Marie Carole and Duval, Renaud and Brent, Michael H and Cheriet, Farida},
+  journal={Scientific Data},
+  volume={11},
+  number={1},
+  pages={914},
+  year={2024},
+  doi={10.1038/s41597-024-03739-6}
+}
+
+
 
 
