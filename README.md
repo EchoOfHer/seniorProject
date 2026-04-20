@@ -48,5 +48,3 @@ This repository is designed to:
 
 ---
 
-## 📁 Project Structure
-
